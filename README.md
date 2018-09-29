@@ -1,6 +1,6 @@
 # ImagePlus2array
 
-`ImagePlus2array.m` is a MATLAB function and works with ImageJ-MATLAB to allow you to retrieve an array of image data from ImageJ1 `ij.ImagePlus` object.
+`ImagePlus2array.m` is a MATLAB function and works with [ImageJ-MATLAB](https://imagej.net/MATLAB_Scripting) to allow you to retrieve an array of image data from ImageJ1 `ij.ImagePlus` object.
 
 This is an alternative of `IJM.getDataset` and` IJM.getDatasetAs` provided by ImageJ-MATLAB.
 
@@ -72,6 +72,16 @@ ans =
 
 
 ![](Image006.png)
+
+Note: There is no simply way of showing >3 channels in MATLAB, so only the first channel is shown.
+
+
+
+#### See also
+
+[copytoImagePlus](https://github.com/kouichi-c-nakamura/ijmshow)
+
+
 
 ### Contacts
 
