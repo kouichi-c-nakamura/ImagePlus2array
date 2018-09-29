@@ -79,7 +79,7 @@ Note: There is no simply way of showing >3 channels in MATLAB, so only the first
 
 #### See also
 
-[copytoImagePlus](https://github.com/kouichi-c-nakamura/ijmshow)
+[copytoImagePlus](https://github.com/kouichi-c-nakamura/copytoImagePlus)
 
 
 
